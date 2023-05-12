@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
-
-<h3 align="center">Project Title</h3>
+<h3 align="center">REST API with Token Authentication and Input Validation</h3>
 
 <div align="center">
 
@@ -16,7 +11,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> This project is a REST API built using Django Rest Framework (DRF) that provides token-based authentication and input validation functionalities. It serves as a solid foundation for developing web applications and services that require secure and validated communication between the client and server.
     <br> 
 </p>
 
@@ -34,7 +29,10 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+### Features:
+Token Authentication: The API utilizes token-based authentication to ensure secure access to protected resources. Users can obtain an authentication token by providing valid credentials, and subsequent requests must include this token to authenticate and authorize access.
+Input Validation: The API implements robust input validation mechanisms to ensure that data sent by clients adheres to defined rules and constraints. It verifies the integrity and validity of the incoming data, enhancing the overall security and reliability of the system.
+Django Rest Framework: Built on top of Django, the API leverages the power and flexibility of Django Rest Framework to simplify the development process and provide various tools and utilities for building RESTful APIs.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -103,9 +101,7 @@ Add additional notes about how to deploy this on a live system.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+- [@agx01](https://github.com/agx01) - Developed and Designed by
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
