@@ -34,70 +34,12 @@ Token Authentication: The API utilizes token-based authentication to ensure secu
 Input Validation: The API implements robust input validation mechanisms to ensure that data sent by clients adheres to defined rules and constraints. It verifies the integrity and validity of the incoming data, enhancing the overall security and reliability of the system.
 Django Rest Framework: Built on top of Django, the API leverages the power and flexibility of Django Rest Framework to simplify the development process and provide various tools and utilities for building RESTful APIs.
 
-## 🏁 Getting Started <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
-
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Docker](https://www.docker.com/) - Deployment
+- [Python](https://www.python.org/) - Language
+- [Django REST framework](https://www.django-rest-framework.org/) - Server Framework
+- [SQLlite](https://www.sqlite.org/index.html) - Database Framework
 
 ## ✍️ Authors <a name = "authors"></a>
 
